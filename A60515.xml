@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The foundation of preaching asserted In opposition to a counterfeit sermon pretended to be preached before the people called Quakers, in the park, Southwark, 27th of 9th 1687. That all those that feign themselves ministers of the Gospel dispensation, may see that all preaching without the Holy Spirit, and a real call by the grace of God, working in their hearts, and immediately leading them thereto; is nothing but the meer notion of their own brains, and not for the advancement of pure religion. By R. S.</title>
+            <author>R. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60515</idno>
+            <idno type="STC">Wing S4150</idno>
+            <idno type="STC">ESTC R218090</idno>
+            <idno type="EEBO-CITATION">99829716</idno>
+            <idno type="PROQUEST">99829716</idno>
+            <idno type="VID">34159</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60515)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34159)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2002:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The foundation of preaching asserted In opposition to a counterfeit sermon pretended to be preached before the people called Quakers, in the park, Southwark, 27th of 9th 1687. That all those that feign themselves ministers of the Gospel dispensation, may see that all preaching without the Holy Spirit, and a real call by the grace of God, working in their hearts, and immediately leading them thereto; is nothing but the meer notion of their own brains, and not for the advancement of pure religion. By R. S.</title>
+                  <author>R. S.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, by Andrew Sowle,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year, 1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 5 reads: The foundation of true preaching asserted, &amp;c.</note>
+                  <note>Considerable print show-through.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature --  Early works to 1800.</term>
+               <term>Preaching --  Early works to 1800.</term>
+               <term>Quakers --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34159:1"/>
+            <!-- PDF PAGE 15 -->
+            <pb facs="tcp:34159:1"/>
+            <!-- PDF PAGE 15 -->
+            <p>THE FOUNDATION OF <hi>True Preaching</hi> Aſſerted.</p>
+            <p>In Oppoſition to a <hi>Counterfeit Sermon</hi> pretended to be Preached before the People called <hi>Quakers,</hi> in the <hi>Park, Southwark,</hi> 27th of 9th 1687.</p>
+            <p>That all thoſe that feign themſelves Miniſters of the Goſpel Diſpenſation, may ſee that all Preaching without the Holy Spirit, and a Real Call by the Grace of God, working in their Hearts, and immediately lead<g ref="char:EOLhyphen"/>ing them thereto; is nothing but the meer No<g ref="char:EOLhyphen"/>tion of their own Brains, and not for the Advancement of Pure Religion.</p>
+            <p>By <hi>R. S.</hi>
+            </p>
+            <q>If any Man Speak, let him Speak as the Oracles of God: If any Man Miniſter, let him do it as of the Ability which God giveth; That God in all things may be Glorified through Jeſus Chriſt: To whom be Praiſe and Dominion forever and ever, Amen. <bibl>1 Pet. 4.11.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed, by <hi>Andrew Sowle,</hi> in the Year 1687.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:34159:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <pb facs="tcp:34159:2"/>
+            <!-- PDF PAGE 16 -->
+            <head>To the READER.</head>
+            <p>I Hope that no Perſon will believe that that Counterfeit Sermon was Preached by any Perſon that was call'd a QUAKER, but will think that it was a meer Fiction, as it really was. And the Author, in my hearing Confeſſed, <hi>It was a little Trick, or a Nack, to get Money.</hi>
+            </p>
+            <p>And therefore in Anſwering which, I
+<pb facs="tcp:34159:3"/>
+               <!-- PDF PAGE 17 -->
+ſhall not inſiſt on any Particular in his Sermon, but to ſhew the Emptineſs and Vanity of all ſuch Preachers and Sermons that are not as the Oracles of God, and from the Ability that God giveth, which is a ſufficient Reprove to this and all that Preach without a real Call.</p>
+            <closer>
+               <signed>R. S.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:34159:3"/>
+            <!-- PDF PAGE 17 -->
+            <head>THE FOUNDATION OF <hi>True Preaching</hi> Aſſerted, <hi>&amp;c.</hi>
+            </head>
+            <p>THE Holy Scriptures, and the Hiſtories of the Pri<g ref="char:EOLhyphen"/>mitive Times, do abundantly Demonſtrate and ſet forth by what Means and Methods the Goſpel of Chriſt, which is the Power of God to Salvation, made its own way into the World; and how the Preachers thereof were Qualified, and Unaſſiſted by any Secular Power or Intereſt, Triumphed over all Oppoſition that was made againſt it; and at the appearance of which, the Religion of the <hi>Gentiles,</hi> that was the ſtanding Religion of the <hi>Ro<g ref="char:EOLhyphen"/>man Empire</hi> many Years together, flunk away into Obſcu<g ref="char:EOLhyphen"/>rity, and the Darkneſs of <hi>Pagan</hi> Idolatry and Superſtition fled away, and as the Light of the Goſpel prevailed, the clearer it diſcovered the Folly and Impiety of their Wor<g ref="char:EOLhyphen"/>ſhip, their Solemn Rites appeared more Trifling, their Sacrifices more Barbarous and Inhumane, their Oracles became Mute and Silent, and the very Prieſt Aſhamed.</p>
+            <p>That it was not by Humane Learning, School Divinity, or the Notions of <hi>Plato</hi> and <hi>Ariſtotle,</hi> but by the alone
+<pb n="6" facs="tcp:34159:4"/>
+               <!-- PDF PAGE 18 -->
+Power and Wiſdom of God: And the Preachers of the Goſpel being Divinely Inſpired by the Holy Ghoſt, called of God as was <hi>Aaron,</hi> Qualified by his Grace in their Hearts, as will appear hereafter.</p>
+            <p>God who in former Times communicated the Law to the Children of <hi>Iſrael,</hi> by the Miniſtry of <hi>Moſes,</hi> in the Wilderneſs, from Mount <hi>Sinai,</hi> after a long Succeſſion of many Ages, for the great Bleſſing of the Promiſed Seed, thought meet in his own appointed time to put an end thereto, and to perform the Mercies Promiſed to the Fa<g ref="char:EOLhyphen"/>thers, and accordingly in or about the Year of the World Four Thouſand, and the declining part of the Reign of <hi>Auguſtus,</hi> the Empire enjoying a Univerſal Peace, God ſent his dear Son, as an Ambaſſador from Heaven, to Re<g ref="char:EOLhyphen"/>concile the World, and having fulfilled the Law, and the Righteouſneſs thereof, for which he was ſent, to put a Period, and to enlarge the Bounds of Salvation, to admit both <hi>Jews</hi> and <hi>Gentiles</hi> to the terms of the Goſpel, and being the Mediator between God and Man, he Preached the Goſpel of Repentance, and the Remiſſion of Sins, to all them that obey his heavenly Meſſage.</p>
+            <p>And having approved himſelf, and the excellency of his Doctrine, by many great and wonderful Signs &amp; Miracles, he gave Commiſſion to his Diſciples, and his Power and Preſence for their Aſſiſtance, in his ſaying, <hi>Math.</hi> 28. <hi>All Power in Heaven and Earth is given unto me, go ye therefore and Teach all Nations, Baptizing them,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in No-men, <hi>into the Name of Father, Son and Holy Spirit, teaching them to obſerve all things whatſoever I have Com<g ref="char:EOLhyphen"/>manded you; and lo I am with you always unto the end of the World, Amen.</hi> In which there is two things to be conſi<g ref="char:EOLhyphen"/>dred, firſt his Command, <hi>Go ye Teach, Baptizing all Na<g ref="char:EOLhyphen"/>tions
+<pb n="7" facs="tcp:34159:4"/>
+                  <!-- PDF PAGE 18 -->
+into the Name</hi> (that is, into the Power and Vertue) but ſome may ſay, <hi>That the Work to Baptize is Chriſts, and not Mans;</hi> to wipt off that, I anſwer, to Baptize with the Spirit, though not wrought without Chriſt, and his Grace, is many times inſtrumentally done by Men fitted of God for that purpoſe, and therefore no Abſurdity follows, that to Baptize with the Spirit ſhould be expreſſed, as the action of the Apoſtle; for though it be Chriſt, by his Grace, that gives Spiritual Gifts, yet the Apoſtle tells of his imparting to them ſome Spiritual Gifts, <hi>Rom.</hi> 1.11. And the <hi>Corin<g ref="char:EOLhyphen"/>thians, That he had begotten them through the Goſpel,</hi> 1 Cor. 4.15. And yet to beget People to the Faith is the Work of Chriſt, not of Men; to Convert the Heart is properly the Work of Chriſt, and yet the Spirit oft-times aſcribes it to Men, as being the Inſtruments; and the Apoſtle was ſent to turn Men from Darkneſs to Light, from Satans Power to God, though that be not done without Chriſt Co<g ref="char:EOLhyphen"/>operating by his Grace; and in like manner may Bap<g ref="char:EOLhyphen"/>tizing with the Spirit be expreſſed, as performable by Man, as the Inſtrument, though the Work of Chriſts Grace be needful as the principal Cauſe; ſo that it is no abſurdity to ſay, <hi>That the Apoſtles did adminiſter the Baptiſm of the Spirit.</hi>
+            </p>
+            <p>Secondly, his Promiſe, <hi>And lo I am with you to the end of the World;</hi> which is a lively Demonſtration, that the Church and People of Chriſt ſhall never want his Preſence by his Spirit to Inſtruct and Aſſiſt them, whether to Preach or to Pray, he will be with them; and he tells his Diſci<g ref="char:EOLhyphen"/>ples, <hi>As my Father ſent me, ſo ſend I you;</hi> here we may ſee the Apoſtles had an immediate Call to the Miniſtry, to Preach the Goſpel; yet they were to wait for the Holy Ghoſt to be poured on them, as a further Commiſſion;
+<pb n="8" facs="tcp:34159:5"/>
+               <!-- PDF PAGE 19 -->
+and in purſuance of his Command they met at <hi>Jeruſalem</hi> to receive Power from on high, and being met, they were all filled with the Holy Ghoſt, and began to ſpeak with new Tongues, as the Spirit gave them utterance: By this Commiſſion the Apoſtle <hi>Peter,</hi> and the other Apoſtles, being filled with the Holy Ghoſt, as the beſt Qualification, Preached to both <hi>Jews</hi> and <hi>Gentiles;</hi> and afterwards the Apoſtle <hi>Peter</hi> viſiting, by his Epiſtle, the ſcattered Diſci<g ref="char:EOLhyphen"/>ples, ſaith, <hi>As every man hath received the Gift, even ſo Miniſter the ſame one to another, as good Stewards of the manifold Grace of God: If any man Speak, let him Speak as the Oracles of God: If any man Miniſter, let him do it as of the Ability which God giveth; that God in all things may be Glorified through Jeſus Chriſt, to whom be Praiſe and Dominion forever and ever, Amen.</hi>
+            </p>
+            <p>By which we may ſee that the true Preachers of the Goſ<g ref="char:EOLhyphen"/>pel of Chriſt, which is the Power of God to Salvation, was not made Miniſters thereof by Human Learning, but by the inward Power and Vertue of the Spirit of God in their own hearts drawing them thereunto; ſuch Miniſters we own as are called immediatly by the Grace of God, but all thoſe that come in without the Call, Moving and Leadings of the Spirit of Chriſt, come in not by Chriſt, who is the Door in<g ref="char:EOLhyphen"/>to the Sheepfold, but clime up ſome other way; and there<g ref="char:EOLhyphen"/>fore Chriſt proclaims them Thieves and Robers, whom the Sheep ought not to hear; ſuch Miniſters and Preachers we utterly diſown and deny.</p>
+            <p>And we may further obſerve, that theſe that Miniſter, muſt Miniſter according to the Gift and Grace received; but thay that have not ſuch a Gift, cannot Miniſter ac<g ref="char:EOLhyphen"/>cording thereunto, and as good Stewards of the Grace of God; but how can a man be a good Steward of that which
+<pb n="9" facs="tcp:34159:5"/>
+               <!-- PDF PAGE 19 -->
+he hath not; can Ungodly Men and Wicked Preachers, that are not Gracious themſelves, but live more like <hi>Gentiles</hi> then <hi>Chriſtians,</hi> in that they ſtrive to imitate the one, rather then to live the Life of the other, and think it ſtrange that others run not with them into the ſame Exceſs of the <hi>Gentiles,</hi> which is Laſciviouſneſs, Luſt, Exceſs of Wine, Revilings, Banquetings, and abominable Idolatry, be good Steward of the manifold Grace of God? and therefore in the following Verſes he makes an Excluſive Limitation of ſuch as are not thus furniſhed, ſaying, <hi>If any man Speak, let him Speak as the Oricles of God, and if any man Miniſter, let him do it as of the ability that God gi<g ref="char:EOLhyphen"/>veth;</hi> which is as much as if he had ſaid, they that cannot thus Speak and thus Miniſter ought not to do it, ſeeing no man ought to take this Honour to himſelf, but he that was called of God, as was <hi>Aaron:</hi> For the Particle <hi>[If]</hi> denotes a Neceſſary Condition. Now what this Abilyty is doth appear from the former Words, to wit the Gift Received, and the Grace whereof they are Stewards, as by the immediate concern and dependency of the Words doth demonſtrate; Neither can it be underſtood of a mere Natural Ability, or acquired Parts and Laerning, becauſe man in this Poſture, in this Natural State and Condition knoweth not the things of God, and ſo he cannot Miniſter them to others, of what he is Ignorant himſelf, and the following Words ſhew and Illuſtrate this alſo, in that he immediately Subjoyned, <hi>That God in all things may be Glo<g ref="char:EOLhyphen"/>rified:</hi> But ſurely God is not Glorified but greatly diſho<g ref="char:EOLhyphen"/>noured when Wicked men undertake to Preach, notwith<g ref="char:EOLhyphen"/>ſtanding their great Learning, and acquier Parts, an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from their meer natural Ability meddle in Spiritual thing<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which they neither Know nor Underſtand, as ſaith t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="10" facs="tcp:34159:6"/>
+               <!-- PDF PAGE 20 -->
+Apoſtle, <hi>As no Man knoweth the Mind of a Man, but the Spirit of a Man; ſo no Man knoweth the things of God, but by the Spirit.</hi>
+            </p>
+            <p>Thus far we may ſee how the Goſpel of Jeſus Chriſt was Preached in the Purity of it without any Mixtures of ſelf Wiſdom, Human Learning, School Divinity, or the Notions of <hi>Plato</hi> or <hi>Ariſtotle;</hi> but they that Preached Speak as the Oracles of God, and thoſe that did Miniſter, did it of the Ability that God had given them, that God in all things might be glorified.</p>
+            <p>But When the Power and Life of Religion went down, up went Schools of Learning, and the Phyloſophy of the <hi>Gentiles</hi> embraced, and Mens Religion was turn'd in<g ref="char:EOLhyphen"/>to Notions, out of the Heart into the Head, and they forgot the Command of Chriſt, who ſaid, <hi>Obſerve all things what<g ref="char:EOLhyphen"/>ſoever I have Commanded you, and lo I am with you to the end the World;</hi> but he is not with thoſe that breaks his Commandements, and will have none of his Counſel, nor obey his Doctrine, which was, <hi>Abide in me, and I in you; as the Branch cannot bear Fruit of it ſelf, except it abides in the Vine; no more can ye except ye abide in me. I am the Vine, ye are the Branches: He that abideth in me, and I in him, the ſame bringeth forth much Fruit; for with<g ref="char:EOLhyphen"/>out me ye can do nothing. If anyman abide not in me, he is caſt forth as a Brand, and is Withered.</hi>
+            </p>
+            <p>So all thoſe that abide not in Chriſt are caſt forth and withered, and in that withered State and Condition they Preach the Figments of their own Brain, being Qualified with Humane Learning, and School Divinity, and the Wiſdom which this World teacheth, which the Apoſtle <hi>Paul</hi> utterly Rejected and Reproved, <hi>Acts</hi> 17. both at <hi>Athens,</hi> (being then the moſt Famous Univerſity in the
+<pb n="11" facs="tcp:34159:6"/>
+               <!-- PDF PAGE 20 -->
+World) and at <hi>Corinth,</hi> a famous City of <hi>Greece;</hi> to the Philoſophers and Orators he taught nothing among them, but Chriſt Crucified; to the <hi>Jews</hi> a Stumbling-block, and to the <hi>Greeks</hi> Fooliſhneſs, but to them that believe, both <hi>Jews</hi> and <hi>Greeks,</hi> Chriſt the Power of God, and the Wiſdom of God, 1 <hi>Cor.</hi> 1. And that he made uſe of to Convert thoſe that were counted the Wits of the World: So in 1 <hi>Cor.</hi> 2. He plainly Renounces and Rejects the Wiſdom of it, ſaying,</p>
+            <p>Verſ. 1. <hi>And I Brethren when I came to you, came not with excellency of Speech or Wiſdom, declaring unto you the Teſtimony of God.</hi>
+            </p>
+            <p n="2">2. <hi>For I determine not to know any thing among you, but Jeſus Chriſt, and him Crucified.</hi>
+            </p>
+            <p n="3">3. <hi>And I was with you in Weakneſs, and Fear, and much Trembling.</hi>
+            </p>
+            <p n="4">4. <hi>And my Speech was not with enticing Words of Mans Wiſdom, but in demonſtration of that Spirit and Power.</hi>
+            </p>
+            <p n="5">5. <hi>That your Faith ſhould not ſtand in the Wiſdom of Man, but in the Power of God.</hi>
+            </p>
+            <p n="6">6. <hi>Howbeit we ſpeak Wiſdom among them that are Perfect, yet not the Wiſdom of this World, nor of the Prince of this World wich comes to naught.</hi>
+            </p>
+            <p n="7">7. <hi>But we ſpeak the Wiſdom of God in a Myſtery, even the hidden Wiſdom.</hi>
+            </p>
+            <p>V. 13. <hi>Which things alſo we ſpeak, not in the Words which Mans Wiſdom teacheth, but which the Holy Spirit teacheth; comparing Spiritual things wich Spiritual things.</hi>
+            </p>
+            <p>By which we may ſee, that the Apoſtle made uſe of no other Philoſophy then the Wiſdom of Chriſt, in compa<g ref="char:EOLhyphen"/>riſon of which the Wits of <hi>Athens,</hi> and the Learning of the whole World is but Fooliſhneſs, and as Droſs and Dung in compariſon of the Croſs of Chriſt.</p>
+            <p>
+               <pb n="12" facs="tcp:34159:7"/>
+               <!-- PDF PAGE 21 -->And in our Age eſpecially God hath determined to ſhow his Power by weak Inſtruments, which he hath raiſed up, and hath furniſhed them with his own Power, Life, and Vertue, though diſpiſed, becauſe Mean and Illeterate; and therefore ſeeing in and amongſt them my ſelf with many, others, have found that heavenly Pearl, that giveth Con<g ref="char:EOLhyphen"/>tentment, which is the only Learning, to be ſought after, and waited for, forever and ever.</p>
+            <trailer>THE END</trailer>
+            <pb facs="tcp:34159:7"/>
+            <!-- PDF PAGE 21 -->
+         </div>
+      </body>
+   </text>
+</TEI>
